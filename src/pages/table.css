@@ -1,0 +1,19 @@
+.css-1dc80h3-MuiTableCell-root .css-1dybbl5-MuiChip-label:hover{
+ cursor: pointer !important;
+}
+.css-1mo2pzk-MuiSvgIcon-root-MuiAvatar-fallback:hover{
+    cursor: pointer !important;
+}
+.css-1su80sj-MuiAvatar-img{
+    height: 30px !important;
+    width: 30px !important;
+    object-fit: cover !important;
+
+}
+.css-zefc5s .css-1su80sj-MuiAvatar-img{
+    height: 15px !important;
+    width: 15px !important;
+    object-fit: cover !important;
+    font-size: 20px !important;
+
+}

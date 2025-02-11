@@ -1,0 +1,21 @@
+body{
+  background: rgb(16,19,28);
+background: linear-gradient(90deg, rgba(16,19,28,1) 0%, rgba(19,25,38,1) 100%);
+}
+button {
+  background-color: #BAD7F5; 
+  color: #161617;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+button:hover {
+  scale: 0.9;
+}
+.border{
+  border: 3px solid red;
+}
